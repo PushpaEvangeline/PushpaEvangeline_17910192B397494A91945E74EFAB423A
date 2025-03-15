@@ -1,1 +1,21 @@
 # PushpaEvangeline_17910192B397494A91945E74EFAB423A
+
+# Weather Dashboard 🌤️
+
+A simple and user-friendly web application that provides real-time weather updates for any city. This app uses the **OpenWeatherMap API** to fetch current weather data and displays it in an easy-to-understand format.
+
+## Features:
+- **Search Functionality**: Search for weather data by city name.
+- **Real-Time Weather Information**: View the current temperature (°C or °F), humidity (%), and a short weather description (e.g., "Sunny," "Rainy").
+- **Weather Icons**: Visual icons representing the weather conditions (sun for clear weather, clouds for cloudy weather, etc.).
+- **Responsive Design**: Optimized for both desktop and mobile devices.
+
+## Technologies Used:
+- **Frontend**: HTML, CSS, JavaScript
+- **API**: OpenWeatherMap API (Free Tier)
+- **Deployment**: Deployed on Netlify/Render (Add your deployed link here if live).
+
+## How to Run Locally:
+1. Go to this site:
+ https://ubiquitous-faloodeh-4bd80a.netlify.app/
+   
