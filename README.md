@@ -1,20 +1,6 @@
 # PushpaEvangeline_17910192B397494A91945E74EFAB423A
 
 # Weather Dashboard 🌤️
-Hackathon Submission Template (Level-1-Solution)
-
-Use Case Title:		Weather Dashboard Web Application
-
-Student Name:		Pushpa Evangeline V
-
-Register Number:		20222141506119
-
-Institution:			Nazareth Margoschis College At Pillayanmanai
-
-Department:		Computer Science
-
-Date of Submission:	15/03/2025
-
 
 --------------------------------------------------------------------------------------------------------------------------
 
