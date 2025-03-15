@@ -12,7 +12,7 @@ A simple and user-friendly web application that provides real-time weather updat
 
 ## Technologies Used:
 - **Frontend**: HTML, CSS, JavaScript
-- **API**: OpenWeatherMap API (Free Tier)
+- **API**: OpenWeatherMap API.
 - **Deployment**: Deployed on Netlify.
 
 ## How to Run Locally:
